@@ -38,9 +38,7 @@ The customer segmentation process helps you understand who your target audience 
 - Customer Behavior: This is dependent on how the customers have interacted with your brand in the past. Some of the factors include brand loyalty, past purchases, and current user status.
 
 
-### Technical (white board)
-
-Given the tables below, write an sql query that will determine the following:
+### Technical 
 
 - Service Provider table
 - payment table
@@ -82,12 +80,13 @@ For a product to be critical to ensure sustained revenue, it has to be a product
 <img width="779" alt="image" src="https://github.com/mrdimejisam/Online-Payment-Platform/assets/111657348/d10f1047-cf34-4028-b790-ef6e7043133b">
 
 
-### Visual
-
-Using your tool of choice (preferably tableau or power BI),
+### Visual (Tableau)
 
 1. show the growth rate of transaction volumes per month.
 2. Show the growth rate of customer on the platform.
+
+![image](https://github.com/mrdimejisam/Online-Payment-Platform/assets/111657348/e521907d-3369-416d-9d16-2a4e6d3f38a2)
+
 
 
 **Data Structure**
