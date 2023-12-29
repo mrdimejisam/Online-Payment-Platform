@@ -1,4 +1,9 @@
 # Online-Payment-Platform
+
+**Link to view Tableau Dashboard:**
+
+https://public.tableau.com/app/profile/oladele.oladimeji.samuel/viz/CustomerPaymentTransactionDashboard/Dashboard1
+
 ## Analysis on customers Online Payments
 
 ### Introduction
